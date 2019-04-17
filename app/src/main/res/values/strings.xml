@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aps</string>
+    <string name="title_home">Início</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_library">Sua Biblioteca</string>
+    <string name="list_item_1">Feito para você</string>
+    <string name="list_item_2">Playlists</string>
+    <string name="list_item_3">Estações</string>
+    <string name="list_item_4">Músicas</string>
+    <string name="list_item_5">Álbuns</string>
+    <string name="list_item_6">Artistas</string>
+    <string name="list_item_7">Podcasts</string>
+    <string name="list_item_8">Vídeos</string>
+    <string name="artist">Artista</string>
+    <string name="artist1">Bring Me The Horizon</string>
+    <string name="artist2">My Chemical Romance</string>
+    <string name="artist3">Bullet for My Valentine</string>
+    <string name="title_recents">Tocadas Recentemente</string>
+    <string name="desc_list">Imagem Artista</string>
+    <string name="desc_opt">Opções</string>
+
+</resources>
